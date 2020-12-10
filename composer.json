@@ -2,7 +2,7 @@
     "name": "mimido/db",
     "type": "library",
     "description": "A unified database connectivity libriary",
-    "keywords": ["database","mimido", "database","mongodb","rethinkdb"],"mysqli","postgre"]]],
+    "keywords": ["database","mimido", "database","mongodb","rethinkdb","mysqli","postgre","mariadb","couchdb"],
     "homepage": "https://github.com/maccabeus/mido-db",
     "license": "MIT",
     "authors": [
