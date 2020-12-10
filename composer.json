@@ -1,5 +1,5 @@
 {
-    "name": "mido/mido-db",
+    "name": "mimido/db",
     "type": "library",
     "description": "A unified database connectivity libriary",
     "keywords": ["database","mido-framework", "mido"],
