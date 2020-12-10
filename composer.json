@@ -5,6 +5,7 @@
     "keywords": ["database","mimido", "database","mongodb","rethinkdb","mysqli","postgre","mariadb","couchdb"],
     "homepage": "https://github.com/maccabeus/mido-db",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Anthony Adeniyi",
